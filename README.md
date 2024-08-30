@@ -1,16 +1,24 @@
-## Hi there 👋
+<img src="/IMG_0525.PNG" alt="banner" />
 
-<!--
-**cybertracell/cybertracell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### WELCOME TO MY GITHUB/ PORTFOLIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I am a Cybersecurity student that likes to work on personal projects.
+
+---
+
+### TOOLS & LANGUAGES I KNOW
+
+<p>
+<img height="50" width="50" src="https://simpleicons.org/icons/linux.svg" />
+<img height="50" width="50" src="https://simpleicons.org/icons/gnubash.svg" />
+<img height="50" width="50" src="https://simpleicons.org/icons/python.svg" />
+<img height="50" width="50" src="https://simpleicons.org/icons/kalilinux.svg" />
+<img height="50" width="50" src="https://simpleicons.org/icons/qubesos.svg" />
+<img height="50" width="50" src="https://simpleicons.org/icons/wireshark.svg" />
+ <img height="50" width="50" src="https://simpleicons.org/icons/owasp.svg" />
+</p>
+
+---
+### [PROFILE CUSTOMIZATION STILL IN PROGRESS, MORE ABOUT ME COMING SOON]
