@@ -19,7 +19,8 @@
 <img height="50" width="50" src="https://simpleicons.org/icons/kalilinux.svg" />
 <img height="50" width="50" src="https://simpleicons.org/icons/qubesos.svg" />
 <img height="50" width="50" src="https://simpleicons.org/icons/wireshark.svg" />
- <img height="50" width="50" src="https://simpleicons.org/icons/owasp.svg" />
+<img height="50" width="50" src="https://simpleicons.org/icons/owasp.svg" />
+<img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-vs-code-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-relate-pack-logos-icons-1982827.png?f=webp&w=256" />
 </p>
 
 ---
