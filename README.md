@@ -13,19 +13,19 @@
 ### TOOLS & LANGUAGES I KNOW
 
 <p>
-  <!--Link 1: LINUX KERNAL-->
+    <!--Link 1: LINUX KERNAL-->
  <a href="https://www.linux.org/" </a> 
     <img height="50" width="50" src="https://img.icons8.com/?size=48&id=17842&format=png" />
-   <!--Link 2:WINDOWS-->
+    <!--Link 2:WINDOWS-->
   <a href="https://www.microsoft.com/software-download/windows11" </a> 
     <img height="50" width="50" src="https://img.icons8.com/?size=48&id=TuXN3JNUBGOT&format=png" />
-   <!--LInk 3:BASH SCRIPTING-->
+     <!--LInk 3:BASH SCRIPTING-->
 <a href="https://www.gnu.org/software/bash/" </a> 
     <img height="50" width="50" src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png" />
-  <!--Link 4:KALI LINUX-->
+     <!--Link 4:KALI LINUX-->
   <a href="https://www.kali.org/" </a> 
     <img height="50" width="50" src="https://img.icons8.com/?size=80&id=qBWtR72kluCU&format=png" />
-   <!--Link 5: QUBES OS-->
+     <!--Link 5: QUBES OS-->
 <a href="https://www.qubes-os.org/" </a> 
     <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Qubes_OS_Logo.svg/250px-Qubes_OS_Logo.svg.png" />
      <!--Link 6: NMAP-->
@@ -37,6 +37,12 @@
       <!--Link 8: PYTHON-->
 <a href="https://www.python.org/" </a> 
     <img height="45" width="45" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
+      <!--Link 9:KALI LINUX-->
+<a href="https://code.visualstudio.com/" </a> 
+    <img height="45" width="45" src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" />
+       <!--Link 10: OWASP-->
+<a href="https://owasp.org/" </a> 
+    <img height="45" width="45" src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" />
     
     
     
