@@ -10,7 +10,7 @@
 
 ---
 
-### TOOLS & LANGUAGES I KNOW
+### TOOLS, LANGUAGES, & RESOURCES I KNOW
 
 <p>
     <!--Link 1: LINUX KERNAL-->
@@ -43,19 +43,9 @@
        <!--Link 10: OWASP-->
 <a href="https://owasp.org/" </a> 
     <img height="45" width="45" src="https://cydrill.com/wp-content/uploads/owasp_logo_flat2_icon.png" />
-    
-    
-    
-
-
-
-
-
-
-
-
-
-   
+      <!--Link 11: HACKTHEBOX-->
+<a href="https://www.hackthebox.com/" </a> 
+    <img height="45" width="45" src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.9/1629722910669/Microsoft.VisualStudio.Services.Icons.Default" />
 </p>
 
 ---
@@ -64,4 +54,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybertracell&show_icons=true&theme=dark" />
 
-### [PROFILE CUSTOMIZATION STILL IN PROGRESS, MORE ABOUT ME COMING SOON]
+---
+
+### PROJECTS/HIGHLIGHTS
+#### [CURRENTLY IN THE DEVELOPMENT PROCESS. FOCUSING]
+
+
