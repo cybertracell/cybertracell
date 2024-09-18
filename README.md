@@ -13,14 +13,43 @@
 ### TOOLS & LANGUAGES I KNOW
 
 <p>
-<img height="50" width="50" src="https://simpleicons.org/icons/linux.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/gnubash.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/python.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/kalilinux.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/qubesos.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/wireshark.svg" />
-<img height="50" width="50" src="https://simpleicons.org/icons/owasp.svg" />
-<img height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-vs-code-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-development-relate-pack-logos-icons-1982827.png?f=webp&w=256" />
+  <!--Link 1: LINUX KERNAL-->
+ <a href="https://www.linux.org/" </a> 
+    <img height="50" width="50" src="https://img.icons8.com/?size=48&id=17842&format=png" />
+   <!--Link 2:WINDOWS-->
+  <a href="https://www.microsoft.com/software-download/windows11" </a> 
+    <img height="50" width="50" src="https://img.icons8.com/?size=48&id=TuXN3JNUBGOT&format=png" />
+   <!--LInk 3:BASH SCRIPTING-->
+<a href="https://www.gnu.org/software/bash/" </a> 
+    <img height="50" width="50" src="https://img.icons8.com/?size=48&id=9MJf0ngDwS8z&format=png" />
+  <!--Link 4:KALI LINUX-->
+  <a href="https://www.kali.org/" </a> 
+    <img height="50" width="50" src="https://img.icons8.com/?size=80&id=qBWtR72kluCU&format=png" />
+   <!--Link 5: QUBES OS-->
+<a href="https://www.qubes-os.org/" </a> 
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Qubes_OS_Logo.svg/250px-Qubes_OS_Logo.svg.png" />
+     <!--Link 6: NMAP-->
+<a href="https://nmap.org/" </a> 
+    <img height="45" width="45" src="https://img.icons8.com/?size=48&id=9b5wowKIlo9d&format=png" />
+     <!--Link 7: WIRESHARK-->
+<a href="https://www.wireshark.org/" </a> 
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/100px-Wireshark_icon.svg.png" />
+      <!--Link 8: PYTHON-->
+<a href="https://www.python.org/" </a> 
+    <img height="45" width="45" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
+    
+    
+    
+
+
+
+
+
+
+
+
+
+   
 </p>
 
 ---
