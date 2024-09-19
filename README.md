@@ -46,6 +46,9 @@
       <!--Link 11: HACKTHEBOX-->
 <a href="https://www.hackthebox.com/" </a> 
     <img height="45" width="45" src="https://silofy.gallerycdn.vsassets.io/extensions/silofy/hackthebox/0.2.9/1629722910669/Microsoft.VisualStudio.Services.Icons.Default" />
+     <!--Link 12: VIM-->
+<a href="https://www.vim.org/about.php" </a> 
+    <img height="40" width="40" src="https://img.icons8.com/?size=80&id=zC9SDvhmTlTo&format=png" />
 </p>
 
 ---
