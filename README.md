@@ -60,8 +60,8 @@
 ---
 
 ### PROJECTS/HIGHLIGHTS
-#### [CURRENTLY IN THE DEVELOPMENT PROCESS. FOCUSING]
-
+<p>
+<a href="https://github.com/cybertracell/spiceymap/blob/main/README.md" </a> 
+    <img height="100" width="100" src="IMG_0538.png" />
+    
 ---
-
-
