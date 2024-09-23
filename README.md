@@ -59,7 +59,7 @@
 
 ---
 
-### MY PROJECTS/HIGHLIGHTS
+### MY PROJECTS
 <p>
 <a href="https://github.com/cybertracell/spiceymap/blob/main/README.md" </a> 
     <img height="80" width="80" src="IMG_0538.png" />
