@@ -4,7 +4,7 @@
 
 ### WELCOME TO MY GITHUB/ PORTFOLIO
 
-#### I am a Cybersecurity Student/Enthusiast that likes to dive into various parts of Cybersecurity such as 
+#### I am a Cybersecurity Nerd that likes to dive into various parts of Cybersecurity such as 
 #### [Hardware Hacking, Programming For Security, Red Teaming, Blue Teaming, Forensics, and Network Security.]
 #### I also have a strong interest in other forms of hacking such as Lockpicking and Social Engineering.
 
