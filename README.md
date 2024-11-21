@@ -52,7 +52,7 @@
 </p>
  <!--Link 13: PROXMOX-->
 <a href="https://www.proxmox.com/en/" </a> 
-    <img height="40" width="40" src="https://img.icons8.com/?size=100&id=53iFar0HpEW9&format=png&color=000000" />
+    <img height="50" width="50" src="https://img.icons8.com/?size=100&id=53iFar0HpEW9&format=png&color=000000" />
 </p>
 
 
