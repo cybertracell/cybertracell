@@ -49,10 +49,12 @@
      <!--Link 12: VIM-->
 <a href="https://www.vim.org/about.php" </a> 
     <img height="40" width="40" src="https://img.icons8.com/?size=80&id=zC9SDvhmTlTo&format=png" />
-</p>
  <!--Link 13: PROXMOX-->
 <a href="https://www.proxmox.com/en/" </a> 
     <img height="50" width="50" src="https://img.icons8.com/?size=100&id=53iFar0HpEW9&format=png&color=000000" />
+ <!--Link 14: TOR-->
+<a href="https://www.torproject.org/" </a> 
+    <img height="50" width="50" src="https://img.icons8.com/?size=100&id=LSOtRiURcRCx&format=png&color=000000" />
 </p>
 
 
