@@ -68,7 +68,12 @@
 
 ### MY PROJECTS
 <p>
+    <!--$PICEYMAP-->
 <a href="https://github.com/cybertracell/spiceymap/blob/main/README.md" </a> 
     <img height="80" width="80" src="IMG_0538.png" />
+     <!--ROTTENHANDZ-->
+<a href="https://github.com/cybertracell/rottenhandz/blob/main/README.md" </a> 
+    <img height="80" width="80" src="IMG_0541.png" />
+
     
 ---
