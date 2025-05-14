@@ -80,4 +80,4 @@
     <!--$PICEYMAP-->
     <img height="300" width="300" src="https://github.com/cybertracell/cybertracell/blob/main/PXL_20250328_160523168_1747186082239.jpg" />
 
-2025 Skills USA, Louisiana Postsecondary (Gold) Winner in Cyber Security
+2025 SkillsUSA, Louisiana Postsecondary (Gold) Winner in Cyber Security
